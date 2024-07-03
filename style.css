@@ -26,9 +26,8 @@ header span {
 .main-section {
     /* Стили для первой секции */
     background-color: #fafaff;
-    padding: 60px;
+    padding: 60px 0;
     min-height: 100%;
-
 }
 
 .main-title {
@@ -54,6 +53,7 @@ header span {
 .about-section {
     /* Стили для второй секции */
     background-color: #fff;
+    padding: 100px 0;
 }
 
 select {
@@ -72,7 +72,7 @@ select {
     /* Стили для заголовков во второй секции */
     font-weight: 700;
     font-size: 24px;
-    padding-bottom: 25px;
+    margin-bottom: 25px;
 }
 
 .frameworks-list {
@@ -85,7 +85,7 @@ select {
 
 .books-list {
     /* Стили для нумерованного списка во второй секции */
-    padding-left: 20px;
+    padding: 0 20px;
     font-weight: 400;
     font-size: 16px;
 }
@@ -136,19 +136,18 @@ table {
 }
 
 th, td {
-    /* Стили для ячеек таблицы */
-    
+    /* Стили для ячеек таблицы */    
     border: 1px solid #95a1bb;
     font-weight: 400;
     font-size: 14px;
-    padding: 12px 15px 11px;
+    padding: 12px 15px;
     text-align: left;
 }
 
 footer {
     /* Стили для футера */
     background-color: rgba(163, 167, 255, 0.3);
-    padding: 26px;
+    padding: 26px 0;
 }
 
 .footer-link {
