@@ -65,7 +65,7 @@ select {
     font-weight: 400;
     font-size: 16px;
     appearance: none;
-    background: url(./assets/images/Vector.png) no-repeat right 14.2px top 50%; 
+    background: url(Vector.png) no-repeat right 14.2px top 50%; 
 }
 
 .section-title {
@@ -77,7 +77,7 @@ select {
 
 .frameworks-list {
     /* Стили для маркированного списка во второй секции */
-    list-style-image: url(./assets/images/Vector2.png);
+    list-style-image: url(Vector2.png);
     padding-left: 20px;
     font-weight: 400;
     font-size: 16px;
