@@ -75,7 +75,7 @@ select {
     margin-bottom: 25px;
 }
 
-.frameworks-list {
+.skills-list {
     /* Стили для маркированного списка во второй секции */
     list-style-image: url(Vector2.png);
     padding-left: 20px;
